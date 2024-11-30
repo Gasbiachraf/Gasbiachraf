@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm ACHRAF GASBI! </h1>
 <h3>💻Web Developer | PhD Student in Mechanical Engineering | Tech & AI Enthusiast</h3>
 <p>I am passionate about coding, problem-solving, and creating efficient digital solutions. My journey combines expertise in web development, artificial intelligence, and advanced research in mechanical engineering, with a focus on simulation and modeling. I thrive on learning and exploring innovative technologies that drive impactful change.  <br/>
-- 🌍 Based in Morocco
-- ✉️ Reach me at: gasbi.achraf@gmail.com
-- 🧠 Currently enhancing skills in: Advanced coding practices, AI/ML, and web development frameworks.
-- 🌟 Interests: Exploring the intersection of AI, technology, and engineering, creating scalable solutions, and sharing knowledge within the tech community.  Let’s build the future together with innovation and creativity! 🚀</p>
+- 🌍 Based in Morocco <br/>
+- ✉️ Reach me at: gasbi.achraf@gmail.com <br/>
+- 🧠 Currently enhancing skills in: Advanced coding practices, AI/ML, and web development frameworks. <br/>
+- 🌟 Interests: Exploring the intersection of AI, technology, and engineering, creating scalable solutions, and sharing knowledge within the tech community.  Let’s build the future together with innovation and creativity! 🚀 <br/></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
