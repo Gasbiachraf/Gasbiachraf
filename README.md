@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm ACHRAF GASBI! </h1>
 <h3>💻Web Developer | PhD Student in Mechanical Engineering | Tech & AI Enthusiast</h3>
-<p>I am passionate about coding, problem-solving, and creating efficient digital solutions. My journey combines expertise in web development, artificial intelligence, and advanced research in mechanical engineering, with a focus on simulation and modeling. I thrive on learning and exploring innovative technologies that drive impactful change.  
+<p>I am passionate about coding, problem-solving, and creating efficient digital solutions. My journey combines expertise in web development, artificial intelligence, and advanced research in mechanical engineering, with a focus on simulation and modeling. I thrive on learning and exploring innovative technologies that drive impactful change.  <br/>
 - 🌍 Based in Morocco
 - ✉️ Reach me at: gasbi.achraf@gmail.com
 - 🧠 Currently enhancing skills in: Advanced coding practices, AI/ML, and web development frameworks.
