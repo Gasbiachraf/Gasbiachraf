@@ -3,7 +3,7 @@
 <p>I am passionate about coding, problem-solving, and creating efficient digital solutions. My journey combines expertise in web development, artificial intelligence, and advanced research in mechanical engineering, with a focus on simulation and modeling. I thrive on learning and exploring innovative technologies that drive impactful change.  <br/>
   <ul>
   <li>🌍 Based in Morocco</li>
-  <li>✉️ Reach me at: gasbi.achraf@gmail.com</li>
+  <li>✉️ Reach me at: <a href="gasbi.achraf@gmail.com ">gasbi.achraf@gmail.com </a></li> 
   <li>🧠 Currently enhancing skills in: Advanced coding practices, AI/ML, and web development frameworks.</li>
   <li>🌟 Interests: Exploring the intersection of AI, technology, and engineering, creating scalable solutions, and sharing knowledge within the tech community.  Let’s build the future together with innovation and creativity! 🚀 </li>
 </ul></p>
